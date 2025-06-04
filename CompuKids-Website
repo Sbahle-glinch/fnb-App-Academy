@@ -1,0 +1,23 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" >
+    </head>
+    <body>
+        <h1>Home Page</h1>
+        <h2>This is a heading</h2>
+        <h3>This is a heading</h3>
+        <h4>This is a heading</h4>
+        <h5>This is a heading</h5>
+        <h1>This is a heading</h1>
+        <p>Hello everyone</p>
+        <p>This is fun!</p>
+        <a href="boat.html"><img src="Images/boat-luxury-river-163236.jpg" height="150"/></a>
+        <img src="Images/cablecar.jpg" height="150"  />
+        <img src="Images/city.jpeg" height="150" />
+
+        <a href="http://www.google.com">Click here to go to Google</a>
+        <a href="https://compukids.org/">Click here to go to CompuKids</a>
+        <a href="about.html">Click here to go to About Us</a>
+    </body>
+</html>
